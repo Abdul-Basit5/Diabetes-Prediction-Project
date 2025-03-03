@@ -1,7 +1,5 @@
-# Diabetes-Prediction-Project
-A machine learning project predicting diabetes using Logistic Regression, Decision Tree, and Random Forest etc. The dataset is preprocessed, trained, and evaluated using accuracy, precision, and recall. Techniques handle imbalanced data and missing values. Performance is analyzed with confusion matrices and ROC curves to aid early diagnosis. 
 
-<h1>🏥 Diabetes Prediction System</h1>
+<h1>🏥 Diabetes Prediction Project</h1>
 <h2>📌 Overview</h2>
     <p>This machine learning project predicts the likelihood of Diabetes based on various health-related attributes. The dataset includes key factors like BMI, Smoking, Alcohol Consumption, Physical Activity, and General Health to assess diabetes risk.</p>
  
